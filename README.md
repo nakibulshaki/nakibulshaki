@@ -1,6 +1,6 @@
 ### Hi there, This is Nakib -  [3xp3rT][website] 👋
 
-## I'm a Software Engineer, Entrepreneur, Developer, and Motivator!
+## I'm a Software Engineer, Entrepreneur and Motivator!
 - 🔭 I’m currently working on a [A EPOS Solution][website]!
 - 🌱 I’m currently learning React 🤣
 - 👯 I’m looking to collaborate with other Tech Entrepreneur
