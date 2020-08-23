@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning React 🤣
 - 👯 I’m looking to collaborate with other Tech Entrepreneur
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to motivate people & thinking about new tech idea
 
 ### Connect with me:
 
