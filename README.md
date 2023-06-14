@@ -1,10 +1,7 @@
 ### Hi there, This is Nakib -  [3xp3rT][website] 👋
 
 ## I'm a Software Engineer!
-- 🔭 I’m currently working on a RSLog(a civil engineering project)!
-- 🌱 I’m currently learning architecture & design pattern  🤣
-- 👯 I’m looking to collaborate with other Tech Enthusiastic 
-- 🥅 2023 Goals: Contribute more to Open Source projects
+
 
 ### Connect with me:
 
