@@ -47,14 +47,15 @@ hobbies: ["Long Drive", "Cooking", "Helping Other"]
 
 
 ### Connect with me:
-
-[<img align="left" alt="nakibulshaki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img  alt="nakibulshaki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
 <br>
 <br>
 
 
-<img align="left" alt="nakibulshaki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=3xp3rT&show_icons=true&hide_border=true" />
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nakibulshaki&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nakibul's github stats" /></a> | <a href="https://github.com/nakibulshaki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakibulshaki&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
